@@ -77,3 +77,191 @@
 2018-12-09 06:54:06,776 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
 2018-12-09 06:54:06,778 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-12-09 06:54:06,778 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 06:56:00,831 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:00,831 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 06:56:00,832 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:00,832 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 06:56:29,280 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:29,280 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 06:56:29,282 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:29,282 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 06:56:38,117 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:38,118 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 06:56:38,120 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 06:56:38,120 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:00:15,865 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:00:15,865 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:00:15,866 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:00:15,866 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:08:58,018 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:08:58,018 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:08:58,021 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:08:58,022 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:13:14,864 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:14,865 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:13:14,867 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:14,867 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:13:35,707 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:35,707 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:13:35,708 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:35,708 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:13:46,880 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:46,880 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:13:46,882 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:46,882 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:13:57,252 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:57,253 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:13:57,254 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:13:57,254 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:15:01,317 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:15:01,317 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:15:01,319 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:15:01,319 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 07:15:49,769 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:15:49,770 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 07:15:49,771 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 07:15:49,771 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:48:57,894 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:48:57,894 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:48:57,894 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:48:57,894 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:52:09,720 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:52:09,721 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:52:09,723 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:52:09,724 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:52:23,422 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:52:23,422 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:52:23,424 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:52:23,425 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:53:12,292 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:53:12,302 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:53:12,302 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:53:12,302 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:55:49,363 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:55:49,363 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:55:49,365 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:55:49,365 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:55:57,263 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:55:57,263 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:55:57,265 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:55:57,266 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:56:55,320 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:56:55,320 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:56:55,321 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:56:55,321 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:58:23,096 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:23,096 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:58:23,097 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:23,097 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:58:42,205 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:42,205 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:58:42,206 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:42,206 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:58:50,681 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:50,682 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:58:50,683 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:50,683 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:58:55,873 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:55,873 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:58:55,874 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:58:55,874 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:59:13,399 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:13,399 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:59:13,400 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:13,400 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:59:49,017 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:49,017 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:59:49,018 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:49,019 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 12:59:59,175 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:59,176 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 12:59:59,177 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 12:59:59,177 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:01:20,808 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:01:20,808 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:01:20,809 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:01:20,810 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:02:17,017 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:17,018 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:02:17,026 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:17,026 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:02:34,985 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:34,985 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:02:34,986 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:34,986 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:02:48,689 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:48,689 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:02:48,690 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:02:48,691 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:03:08,454 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:03:08,454 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:03:08,456 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:03:08,456 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:04:26,210 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:04:26,210 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:04:26,212 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:04:26,212 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:04:31,244 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:04:31,244 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:04:31,245 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:04:31,246 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:15:04,404 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:15:04,404 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:15:04,414 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:15:04,414 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:15:14,211 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:15:14,211 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:15:14,211 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:15:14,211 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:17:16,648 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:16,648 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:17:16,648 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:16,648 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:17:23,208 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:23,208 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:17:23,208 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:23,208 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:17:44,264 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:44,264 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:17:44,264 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:17:44,264 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:18:06,957 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:06,957 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:18:06,957 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:06,957 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:18:20,226 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:20,226 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:18:20,226 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:20,226 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:18:53,415 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:53,425 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:18:53,425 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:18:53,425 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:20:19,015 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:19,015 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:20:19,015 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:19,015 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:20:31,634 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:31,634 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:20:31,634 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:31,634 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:20:46,408 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:46,408 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:20:46,408 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:20:46,408 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:21:00,704 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:21:00,704 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:21:00,715 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:21:00,715 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:21:53,764 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:21:53,764 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:21:53,764 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:21:53,764 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:22:16,783 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:22:16,783 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:22:16,783 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:22:16,783 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
+2018-12-09 13:22:28,572 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:22:28,572 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\main\resources
+2018-12-09 13:22:28,572 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-09 13:22:28,572 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitBranch\MyLearnings\javacode\Examples\src\test\resources
