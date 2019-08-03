@@ -1,0 +1,4 @@
+1. Creating class
+2. Creating Object
+3. Accessing class Object value
+4. Setting class object value

@@ -1,6 +1,6 @@
 class MyError(Exception): 
     # Constructor or Initializer 
-    def __init__(self, value):
+    def  (self, value):
         self.value = value
         print("value in function",self.value)             
 

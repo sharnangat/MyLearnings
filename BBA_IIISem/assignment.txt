@@ -1,0 +1,34 @@
+Write a program for 10 students which has below 
+attributes into the class
+rollno
+name
+subject1
+subject2
+subject3
+subject4
+subject5
+subject6
+
+store all the 20 students into the list
+
+calculate the total and percentage  of the
+every student from the list 
+
+Then
+    based on the percentage apply the grades to 
+	the every student
+	
+	if  percentage is  between 35 to 50
+	     grade is  D
+	if  percentage is  between 50 to 60
+	     grade is  B
+	if  percentage is  between 60 to 70
+	     grade is  A
+	if  percentage is  between 70 to 80
+	     grade is  A+
+	
+	if  percentage is  between 80 to 100
+	     grade is  A++
+	
+	
+	
