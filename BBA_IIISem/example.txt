@@ -1,0 +1,18 @@
+
+
+write  a program which will print below output
+
+   *
+   * *
+   * * *
+   * * * *
+   * * * * *
+   
+write  a program which will print below output
+
+  * * * * *
+  * * * *
+  * * *
+  * *
+  *
+  
