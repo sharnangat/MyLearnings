@@ -2,10 +2,10 @@
 class Car:
     model="Alto K10"
     name="Maruti Suzuki"
-#Create Object of the class
+#Create Object/Instance of the class
 # object_Name= className()
 
-
+#  
 obj=Car()
 
 
