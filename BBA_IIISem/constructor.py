@@ -1,4 +1,4 @@
-class A: 
+class A:   
     name=""
     address=""
     def __init__(self,n,a):
