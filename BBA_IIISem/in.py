@@ -1,4 +1,4 @@
-class Person:
+class Person:  
     fname=""
     sname=""
     def __init__(self,f,s):
