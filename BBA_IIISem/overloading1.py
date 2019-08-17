@@ -1,4 +1,4 @@
-class A:
+class A: 
     def printA():
         print("called first")
     def printA(self,fname):
