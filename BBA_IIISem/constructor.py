@@ -1,4 +1,4 @@
-class A:   
+class A:
     name=""
     address=""
     def __init__(self,n,a):
@@ -7,6 +7,7 @@ class A:
         self.address=a
     def printA(self):
         print("Name",self.name,"Address",self.address)
+
         
 
 a=A("Vij","Pune")
